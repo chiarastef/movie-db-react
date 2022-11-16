@@ -25,6 +25,7 @@ Users should be able to:
 - JavaScript
 - React
 - React Router
+- [React Spinners](https://www.npmjs.com/package/react-spinners)
 - [OMDb API](https://www.omdbapi.com/)
 
 ## Author
